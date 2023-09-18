@@ -15,7 +15,7 @@ This API allows you to retrieve user badges for various discord client mods.
 
 ### Endpoints
 
-`/users/:userId` Returns the badges for the user
+`/users/:userId` Returns the badges for the user lol
 
 Example Response:
 
